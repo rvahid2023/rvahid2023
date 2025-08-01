@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vahid.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python, C# & SQL Server.
 - 💞️ I’m looking for new things...
 
 <!---
